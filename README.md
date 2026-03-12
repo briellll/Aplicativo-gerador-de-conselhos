@@ -26,3 +26,5 @@ Um pequeno aplicativo web que exibe conselhos aleatórios usando a API [Advice S
 Basta fazer um `git init`, adicionar os arquivos e enviar para um repositório no GitHub.
 
 > Projeto simples desenvolvido como exercício de aprendizado.
+>
+> <img width="1116" height="731" alt="{BFBDF43D-78F0-4DDE-9C83-0E457B42DFBA}" src="https://github.com/user-attachments/assets/399324f7-6732-4c08-9b34-3f2b8cfa5496" />
